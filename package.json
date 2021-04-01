@@ -1,0 +1,23 @@
+{
+  "name": "my-movie",
+  "version": "1.0.0",
+  "description": "这是一个 GitBook 自动化构建的 电影Demo。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XIAOKUOAIyang/my-movie.git"
+  },
+  "keywords": [],
+  "author": "yangyuwei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/XIAOKUOAIyang/my-movie/issues"
+  },
+  "homepage": "https://github.com/XIAOKUOAIyang/my-movie#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
