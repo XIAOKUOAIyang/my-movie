@@ -4,15 +4,15 @@
   "description": "这是一个 GitBook 自动化构建的 电影Demo。",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 0"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/XIAOKUOAIyang/my-movie.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "yangyuwei",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/XIAOKUOAIyang/my-movie/issues"
   },
